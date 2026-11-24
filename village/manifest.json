@@ -1,0 +1,1167 @@
+{
+  "version": "b2-1.0",
+  "stage": "B2",
+  "ground": {
+    "size": 120.0,
+    "center": [
+      0,
+      0
+    ],
+    "catatan": "x timur (+), y utara (+); y = -z_layout"
+  },
+  "characters": {
+    "andromeda": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          -14.0,
+          44.0
+        ]
+      },
+      "door_waypoint": "door_andromeda",
+      "door_pos": [
+        -12.79,
+        40.19
+      ]
+    },
+    "aphrodite": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          -20.0,
+          -16.0
+        ]
+      },
+      "door_waypoint": "door_aphrodite",
+      "door_pos": [
+        -16.88,
+        -13.5
+      ]
+    },
+    "apollo": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          28.0,
+          12.0
+        ]
+      },
+      "door_waypoint": "door_apollo",
+      "door_pos": [
+        23.86,
+        10.23
+      ]
+    },
+    "ariadne": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          44.0,
+          6.0
+        ]
+      },
+      "door_waypoint": "door_ariadne",
+      "door_pos": [
+        40.04,
+        5.46
+      ]
+    },
+    "artemis": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          30.0,
+          -6.0
+        ]
+      },
+      "door_waypoint": "door_artemis",
+      "door_pos": [
+        25.59,
+        -5.12
+      ]
+    },
+    "atalanta": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          44.0,
+          -14.0
+        ]
+      },
+      "door_waypoint": "door_atalanta",
+      "door_pos": [
+        40.19,
+        -12.79
+      ]
+    },
+    "athena": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          18.0,
+          28.0
+        ]
+      },
+      "door_waypoint": "door_athena",
+      "door_pos": [
+        15.3,
+        23.79
+      ]
+    },
+    "calliope": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          -24.0,
+          22.0
+        ]
+      },
+      "door_waypoint": "door_calliope",
+      "door_pos": [
+        -20.68,
+        18.96
+      ]
+    },
+    "daedalus": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          6.0,
+          22.0
+        ]
+      },
+      "door_waypoint": "door_daedalus",
+      "door_pos": [
+        4.68,
+        17.18
+      ]
+    },
+    "eurydice": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          -34.0,
+          -32.0
+        ]
+      },
+      "door_waypoint": "door_eurydice",
+      "door_pos": [
+        -31.09,
+        -29.26
+      ]
+    },
+    "galatea": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          6.0,
+          -44.0
+        ]
+      },
+      "door_waypoint": "door_galatea",
+      "door_pos": [
+        5.46,
+        -40.04
+      ]
+    },
+    "hades": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          -8.0,
+          -32.0
+        ]
+      },
+      "door_waypoint": "door_hades",
+      "door_pos": [
+        -6.79,
+        -27.15
+      ]
+    },
+    "hephaestus": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          10.0,
+          -30.0
+        ]
+      },
+      "door_waypoint": "door_hephaestus",
+      "door_pos": [
+        8.42,
+        -25.26
+      ]
+    },
+    "hera": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          -38.0,
+          28.0
+        ]
+      },
+      "door_waypoint": "door_hera",
+      "door_pos": [
+        -34.78,
+        25.63
+      ]
+    },
+    "hermes": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          24.0,
+          -20.0
+        ]
+      },
+      "door_waypoint": "door_hermes",
+      "door_pos": [
+        20.54,
+        -17.12
+      ]
+    },
+    "iris": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          -24.0,
+          -24.0
+        ]
+      },
+      "door_waypoint": "door_iris",
+      "door_pos": [
+        -20.82,
+        -20.82
+      ]
+    },
+    "midas": {
+      "home": {
+        "type": "bank",
+        "pos": [
+          12.0,
+          -10.0
+        ]
+      },
+      "door_waypoint": "bank_door",
+      "door_pos": [
+        8.16,
+        -6.8
+      ]
+    },
+    "nike": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          -30.0,
+          -8.0
+        ]
+      },
+      "door_waypoint": "door_nike",
+      "door_pos": [
+        -25.65,
+        -6.84
+      ]
+    },
+    "penelope": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          38.0,
+          -26.0
+        ]
+      },
+      "door_waypoint": "door_penelope",
+      "door_pos": [
+        34.7,
+        -23.74
+      ]
+    },
+    "persephone": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          -44.0,
+          2.0
+        ]
+      },
+      "door_waypoint": "door_persephone",
+      "door_pos": [
+        -40.0,
+        1.82
+      ]
+    },
+    "prometheus": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          -30.0,
+          10.0
+        ]
+      },
+      "door_waypoint": "door_prometheus",
+      "door_pos": [
+        -25.73,
+        8.58
+      ]
+    },
+    "psyche": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          36.0,
+          30.0
+        ]
+      },
+      "door_waypoint": "door_psyche",
+      "door_pos": [
+        32.93,
+        27.44
+      ]
+    },
+    "zeus": {
+      "home": {
+        "type": "rumah_dewa",
+        "pos": [
+          -16.0,
+          32.0
+        ]
+      },
+      "door_waypoint": "door_zeus",
+      "door_pos": [
+        -13.76,
+        27.53
+      ]
+    }
+  },
+  "office_desks": [
+    {
+      "id": "meja_1",
+      "pos": [
+        12.0,
+        6.0
+      ]
+    },
+    {
+      "id": "meja_2",
+      "pos": [
+        14.7,
+        6.0
+      ]
+    },
+    {
+      "id": "meja_3",
+      "pos": [
+        17.3,
+        6.0
+      ]
+    },
+    {
+      "id": "meja_4",
+      "pos": [
+        20.0,
+        6.0
+      ]
+    },
+    {
+      "id": "meja_5",
+      "pos": [
+        12.0,
+        2.0
+      ]
+    },
+    {
+      "id": "meja_6",
+      "pos": [
+        14.7,
+        2.0
+      ]
+    },
+    {
+      "id": "meja_7",
+      "pos": [
+        17.3,
+        2.0
+      ]
+    },
+    {
+      "id": "meja_8",
+      "pos": [
+        20.0,
+        2.0
+      ]
+    }
+  ],
+  "zones": {
+    "plaza": {
+      "pos": [
+        0.0,
+        -0.0
+      ],
+      "ket": "Plaza pusat, paving batu",
+      "radius": 10.0
+    },
+    "office": {
+      "pos": [
+        16.0,
+        4.0
+      ],
+      "ket": "Kantor (KANTOR), timur plaza",
+      "ukuran": [
+        12.0,
+        8.0
+      ]
+    },
+    "zeus_hall": {
+      "pos": [
+        0.0,
+        50.0
+      ],
+      "ket": "Aula/kuil Zeus di bukit utara",
+      "ukuran": [
+        16.0,
+        10.0
+      ]
+    },
+    "bank": {
+      "pos": [
+        12.0,
+        -10.0
+      ],
+      "ket": "BANK Midas, di plaza",
+      "ukuran": [
+        9.0,
+        7.0
+      ]
+    },
+    "market": {
+      "pos": [
+        -13.0,
+        -9.0
+      ],
+      "ket": "Market/toko + kios, di plaza barat",
+      "ukuran": [
+        10.0,
+        8.0
+      ]
+    },
+    "bakery": {
+      "pos": [
+        -30.0,
+        -38.0
+      ],
+      "ket": "Bakery corner, Eurydice",
+      "ukuran": [
+        7.0,
+        6.0
+      ]
+    },
+    "gym": {
+      "pos": [
+        34.0,
+        20.0
+      ],
+      "ket": "Gym corner, timur laut",
+      "ukuran": [
+        10.0,
+        8.0
+      ]
+    },
+    "pond": {
+      "pos": [
+        38.0,
+        -34.0
+      ],
+      "ket": "Pond, tenggara",
+      "radius": 7.0
+    },
+    "lake": {
+      "pos": [
+        50.0,
+        -46.0
+      ],
+      "ket": "Danau, bersebelahan pond, sudut tenggara",
+      "radius": 10.0
+    },
+    "game": {
+      "pos": [
+        -34.0,
+        22.0
+      ],
+      "ket": "Game corner, barat laut",
+      "ukuran": [
+        10.0,
+        8.0
+      ]
+    },
+    "memorial": {
+      "pos": [
+        -50.0,
+        -2.0
+      ],
+      "ket": "Memorial garden, tepi barat (tenang)",
+      "ukuran": [
+        8.0,
+        10.0
+      ]
+    },
+    "oracle": {
+      "pos": [
+        8.0,
+        38.0
+      ],
+      "ket": "Oracle shrine, di jalan ke aula Zeus",
+      "ukuran": [
+        6.0,
+        6.0
+      ]
+    },
+    "forest_west": {
+      "pos": [
+        -55.0,
+        -0.0
+      ],
+      "ket": "Hutan liar, luar tepi barat",
+      "radius": 12.0
+    },
+    "forest_south": {
+      "pos": [
+        0.0,
+        -55.0
+      ],
+      "ket": "Hutan liar, luar tepi selatan",
+      "radius": 12.0
+    },
+    "forest_sw": {
+      "pos": [
+        -52.0,
+        -52.0
+      ],
+      "ket": "Hutan liar, sudut barat daya",
+      "radius": 12.0
+    },
+    "dragon_hill": {
+      "pos": [
+        -52.0,
+        -52.0
+      ],
+      "ket": "Bukit batu sarang naga, di hutan barat daya",
+      "radius": 8.0
+    }
+  },
+  "expansion_plots": [
+    {
+      "id": "plot_1",
+      "pos": [
+        -22.0,
+        -44.0
+      ],
+      "ukuran": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "plot_2",
+      "pos": [
+        22.0,
+        -44.0
+      ],
+      "ukuran": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "plot_3",
+      "pos": [
+        46.0,
+        32.0
+      ],
+      "ukuran": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "plot_4",
+      "pos": [
+        -46.0,
+        -32.0
+      ],
+      "ukuran": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "plot_5",
+      "pos": [
+        34.0,
+        -46.0
+      ],
+      "ukuran": [
+        8.0,
+        8.0
+      ]
+    }
+  ],
+  "path_graph": {
+    "nodes": {
+      "plaza": [
+        0.0,
+        0.0
+      ],
+      "ring_0": [
+        26.0,
+        0.0
+      ],
+      "ring_1": [
+        18.38,
+        18.38
+      ],
+      "ring_2": [
+        0.0,
+        26.0
+      ],
+      "ring_3": [
+        -18.38,
+        18.38
+      ],
+      "ring_4": [
+        -26.0,
+        0.0
+      ],
+      "ring_5": [
+        -18.38,
+        -18.38
+      ],
+      "ring_6": [
+        -0.0,
+        -26.0
+      ],
+      "ring_7": [
+        18.38,
+        -18.38
+      ],
+      "office_door": [
+        10.66,
+        2.67
+      ],
+      "bank_door": [
+        8.16,
+        -6.8
+      ],
+      "market_door": [
+        -8.48,
+        -5.87
+      ],
+      "zeus_hall_door": [
+        0.0,
+        43.5
+      ],
+      "door_zeus": [
+        -13.76,
+        27.53
+      ],
+      "door_athena": [
+        15.3,
+        23.79
+      ],
+      "door_apollo": [
+        23.86,
+        10.23
+      ],
+      "door_artemis": [
+        25.59,
+        -5.12
+      ],
+      "door_hermes": [
+        20.54,
+        -17.12
+      ],
+      "door_hephaestus": [
+        8.42,
+        -25.26
+      ],
+      "door_hades": [
+        -6.79,
+        -27.15
+      ],
+      "door_iris": [
+        -20.82,
+        -20.82
+      ],
+      "door_nike": [
+        -25.65,
+        -6.84
+      ],
+      "door_prometheus": [
+        -25.73,
+        8.58
+      ],
+      "door_calliope": [
+        -20.68,
+        18.96
+      ],
+      "door_daedalus": [
+        4.68,
+        17.18
+      ],
+      "door_hera": [
+        -34.78,
+        25.63
+      ],
+      "door_persephone": [
+        -40.0,
+        1.82
+      ],
+      "door_aphrodite": [
+        -16.88,
+        -13.5
+      ],
+      "door_penelope": [
+        34.7,
+        -23.74
+      ],
+      "door_ariadne": [
+        40.04,
+        5.46
+      ],
+      "door_psyche": [
+        32.93,
+        27.44
+      ],
+      "door_eurydice": [
+        -31.09,
+        -29.26
+      ],
+      "door_galatea": [
+        5.46,
+        -40.04
+      ],
+      "door_andromeda": [
+        -12.79,
+        40.19
+      ],
+      "door_atalanta": [
+        40.19,
+        -12.79
+      ],
+      "gym": [
+        34.0,
+        20.0
+      ],
+      "pond": [
+        38.0,
+        -34.0
+      ],
+      "lake": [
+        50.0,
+        -46.0
+      ],
+      "game": [
+        -34.0,
+        22.0
+      ],
+      "memorial": [
+        -50.0,
+        -2.0
+      ],
+      "bakery": [
+        -30.0,
+        -38.0
+      ],
+      "oracle": [
+        8.0,
+        38.0
+      ],
+      "forest_west": [
+        -55.0,
+        -0.0
+      ],
+      "forest_south": [
+        0.0,
+        -55.0
+      ],
+      "dragon_hill": [
+        -52.0,
+        -52.0
+      ],
+      "plot_1": [
+        -22.0,
+        -44.0
+      ],
+      "plot_2": [
+        22.0,
+        -44.0
+      ],
+      "plot_3": [
+        46.0,
+        32.0
+      ],
+      "plot_4": [
+        -46.0,
+        -32.0
+      ],
+      "plot_5": [
+        34.0,
+        -46.0
+      ]
+    },
+    "edges": [
+      [
+        "bakery",
+        "plaza"
+      ],
+      [
+        "bakery",
+        "ring_5"
+      ],
+      [
+        "bank_door",
+        "plaza"
+      ],
+      [
+        "bank_door",
+        "ring_7"
+      ],
+      [
+        "door_andromeda",
+        "ring_2"
+      ],
+      [
+        "door_aphrodite",
+        "ring_5"
+      ],
+      [
+        "door_apollo",
+        "ring_1"
+      ],
+      [
+        "door_ariadne",
+        "ring_0"
+      ],
+      [
+        "door_artemis",
+        "ring_0"
+      ],
+      [
+        "door_atalanta",
+        "ring_0"
+      ],
+      [
+        "door_athena",
+        "ring_1"
+      ],
+      [
+        "door_calliope",
+        "ring_3"
+      ],
+      [
+        "door_daedalus",
+        "ring_2"
+      ],
+      [
+        "door_eurydice",
+        "ring_5"
+      ],
+      [
+        "door_galatea",
+        "ring_6"
+      ],
+      [
+        "door_hades",
+        "ring_6"
+      ],
+      [
+        "door_hephaestus",
+        "ring_6"
+      ],
+      [
+        "door_hera",
+        "ring_3"
+      ],
+      [
+        "door_hermes",
+        "ring_7"
+      ],
+      [
+        "door_iris",
+        "ring_5"
+      ],
+      [
+        "door_nike",
+        "ring_4"
+      ],
+      [
+        "door_penelope",
+        "ring_7"
+      ],
+      [
+        "door_persephone",
+        "ring_4"
+      ],
+      [
+        "door_prometheus",
+        "ring_4"
+      ],
+      [
+        "door_psyche",
+        "ring_1"
+      ],
+      [
+        "door_zeus",
+        "ring_3"
+      ],
+      [
+        "dragon_hill",
+        "forest_south"
+      ],
+      [
+        "dragon_hill",
+        "forest_west"
+      ],
+      [
+        "dragon_hill",
+        "ring_5"
+      ],
+      [
+        "forest_south",
+        "ring_6"
+      ],
+      [
+        "forest_west",
+        "ring_4"
+      ],
+      [
+        "game",
+        "plaza"
+      ],
+      [
+        "game",
+        "ring_3"
+      ],
+      [
+        "gym",
+        "plaza"
+      ],
+      [
+        "gym",
+        "ring_1"
+      ],
+      [
+        "lake",
+        "pond"
+      ],
+      [
+        "lake",
+        "ring_7"
+      ],
+      [
+        "market_door",
+        "plaza"
+      ],
+      [
+        "market_door",
+        "ring_5"
+      ],
+      [
+        "memorial",
+        "plaza"
+      ],
+      [
+        "memorial",
+        "ring_4"
+      ],
+      [
+        "office_door",
+        "plaza"
+      ],
+      [
+        "office_door",
+        "ring_0"
+      ],
+      [
+        "oracle",
+        "plaza"
+      ],
+      [
+        "oracle",
+        "ring_2"
+      ],
+      [
+        "oracle",
+        "zeus_hall_door"
+      ],
+      [
+        "plaza",
+        "ring_0"
+      ],
+      [
+        "plaza",
+        "ring_1"
+      ],
+      [
+        "plaza",
+        "ring_2"
+      ],
+      [
+        "plaza",
+        "ring_3"
+      ],
+      [
+        "plaza",
+        "ring_4"
+      ],
+      [
+        "plaza",
+        "ring_5"
+      ],
+      [
+        "plaza",
+        "ring_6"
+      ],
+      [
+        "plaza",
+        "ring_7"
+      ],
+      [
+        "plaza",
+        "zeus_hall_door"
+      ],
+      [
+        "plot_1",
+        "ring_5"
+      ],
+      [
+        "plot_2",
+        "ring_7"
+      ],
+      [
+        "plot_3",
+        "ring_1"
+      ],
+      [
+        "plot_4",
+        "ring_5"
+      ],
+      [
+        "plot_5",
+        "ring_7"
+      ],
+      [
+        "pond",
+        "ring_7"
+      ],
+      [
+        "ring_0",
+        "ring_1"
+      ],
+      [
+        "ring_0",
+        "ring_7"
+      ],
+      [
+        "ring_1",
+        "ring_2"
+      ],
+      [
+        "ring_2",
+        "ring_3"
+      ],
+      [
+        "ring_2",
+        "zeus_hall_door"
+      ],
+      [
+        "ring_3",
+        "ring_4"
+      ],
+      [
+        "ring_4",
+        "ring_5"
+      ],
+      [
+        "ring_5",
+        "ring_6"
+      ],
+      [
+        "ring_6",
+        "ring_7"
+      ],
+      [
+        "ring_6",
+        "zeus_hall_door"
+      ]
+    ]
+  },
+  "glb_files": [
+    {
+      "file": "house_apollo.glb",
+      "bytes": 109576
+    },
+    {
+      "file": "house_artemis.glb",
+      "bytes": 34272
+    },
+    {
+      "file": "house_athena.glb",
+      "bytes": 39396
+    },
+    {
+      "file": "house_calliope.glb",
+      "bytes": 27832
+    },
+    {
+      "file": "house_daedalus.glb",
+      "bytes": 49704
+    },
+    {
+      "file": "house_hades.glb",
+      "bytes": 83232
+    },
+    {
+      "file": "house_hephaestus.glb",
+      "bytes": 69056
+    },
+    {
+      "file": "house_hermes.glb",
+      "bytes": 31168
+    },
+    {
+      "file": "house_iris.glb",
+      "bytes": 272128
+    },
+    {
+      "file": "house_nike.glb",
+      "bytes": 31112
+    },
+    {
+      "file": "house_prometheus.glb",
+      "bytes": 54860
+    },
+    {
+      "file": "house_zeus.glb",
+      "bytes": 150412
+    },
+    {
+      "file": "office.glb",
+      "bytes": 84232
+    },
+    {
+      "file": "village.glb",
+      "bytes": 2612136
+    }
+  ],
+  "counts": {
+    "characters": 23,
+    "agent_houses": 12,
+    "npc_cottages": 10,
+    "zones": 16,
+    "waypoints": 50,
+    "edges": 71,
+    "office_desks": 8,
+    "expansion_plots": 5,
+    "glb_files": 14
+  }
+}
