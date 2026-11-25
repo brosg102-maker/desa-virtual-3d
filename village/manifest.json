@@ -331,6 +331,20 @@
         -13.76,
         27.53
       ]
+    },
+    "alexios": {
+      "home": {
+        "type": "pondok_npc",
+        "pos": [
+          -22.0,
+          26.0
+        ]
+      },
+      "door_waypoint": "door_alexios",
+      "door_pos": [
+        -19.42,
+        22.95
+      ]
     }
   },
   "office_desks": [
@@ -1151,17 +1165,21 @@
     {
       "file": "village.glb",
       "bytes": 2612136
+    },
+    {
+      "file": "alexios.glb",
+      "tipe": "karakter"
     }
   ],
   "counts": {
-    "characters": 23,
+    "characters": 24,
     "agent_houses": 12,
-    "npc_cottages": 10,
+    "npc_cottages": 11,
     "zones": 16,
     "waypoints": 50,
     "edges": 71,
     "office_desks": 8,
     "expansion_plots": 5,
-    "glb_files": 14
+    "glb_files": 15
   }
 }
